@@ -1,6 +1,6 @@
 package striver;
-
 public class P05_FirstAndLastOccurrence {
+
     public static int lowerBound(int[] arr,int x)
     {
         int low=0;
@@ -71,5 +71,4 @@ public class P05_FirstAndLastOccurrence {
         System.out.println("The first and last occurrences are at indices: "
                 + result[0] + " and " + result[1]);
     }
-    }
-
+}

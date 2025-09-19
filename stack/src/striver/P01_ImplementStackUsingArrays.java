@@ -1,6 +1,5 @@
 package striver;
 
-import java.util.Arrays;
 public class P01_ImplementStackUsingArrays {
     static class ArrayStack
     {
