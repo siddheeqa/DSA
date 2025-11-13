@@ -1,0 +1,781 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a904484c-0b74-4061-9e43-69b5062128b2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/linked list/src/striver/P02_InsertionLL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/DSA.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dynamic programming/src/striver/P3_FrogJump.java" beforeDir="false" afterPath="$PROJECT_DIR$/dynamic programming/src/striver/P3_FrogJump.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linked list/linked list.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/linked list/src/striver/P01_Representation.java" beforeDir="false" afterPath="$PROJECT_DIR$/linked list/src/striver/P01_Representation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linked list/src/striver/P02_InsertingAtHead.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/arrays/striver/P01_LargestElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/arrays/striver/P02_SecondLargest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/arrays/striver/P03_CheckSorted.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/arrays/striver/P04_RemoveDupFromSorted.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/arrays/striver/P05_LeftRotateByOne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/arrays/striver/P06_LeftRotateByKPlaces.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/arrays/striver/P07_MoveZerosToEnd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/arrays/striver/P08_UnionOfTwoSorted.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/arrays/striver/P09_MissingNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/arrays/striver/P10_MaxConsOnes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/arrays/striver/P11_SingleNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/arrays/striver/P12_LongestSubArrayWithSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/arrays/striver/P13_TwoSum$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/arrays/striver/P13_TwoSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/arrays/striver/P14_SortZeroOneTwo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/arrays/striver/P15_MajorityElement1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/arrays/striver/P16_KadaneAlgo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/arrays/striver/P17_BestTimeBuyStock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/arrays/striver/P18_RearrangePosNegAlternate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/binary search/striver/P01_BinarySearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/binary search/striver/P02_LowerBound.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/binary search/striver/P03_UpperBound.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/binary search/striver/P04_FloorCeil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/binary search/striver/P05_FirstAndLastOccurrence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/binary search/striver/P06_CountOccurrencesOfNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/binary search/striver/P07_SearchRotatedSortedArray1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/binary search/striver/P08_SearchRotatedSortedArray2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/binary search/striver/P09_MinInSortedArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/binary search/striver/P10_HowManyTimesArrayRotated.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/binary search/striver/P11_SingleElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/binary search/striver/P12_PeakElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/binary search/striver/P13_SquareRoot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/binary search/striver/P14_NthRoot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/binary search/striver/P15_KokoEatingBananas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/binary search/striver/P16_MinDaysToMakeMBouquets.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/binary search/striver/P17_FindSmallestDivisor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/binary search/striver/P18_CapacityToShipPackage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/binary search/striver/P19_KthMissingPositiveNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/binary search/striver/P20_AggressiveCows.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/binary search/striver/P21_BookAllocation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/binary search/striver/P22_SplitArrayLargestSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/binary search/striver/P23_MinimizeMaxDisToGasStation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/binary search/striver/P24_MediumOfTwoSortedArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/dynamic programming/striver/P1_Fibonacci.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/dynamic programming/striver/P2_ClimbingStairs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/dynamic programming/striver/P3_FrogJump.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/dynamic programming/striver/P4_FrogJumpKSteps.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/graph/AlienDictionary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/graph/BellmanFord$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/graph/BellmanFord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/graph/Bfs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/graph/BipartiteGraphBfs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/graph/BipartiteGraphDfs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/graph/CheapestFlightsWithinKStops$Pair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/graph/CheapestFlightsWithinKStops$Tuple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/graph/CheapestFlightsWithinKStops.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/graph/CourseSchedule1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/graph/DetectCycleBfs$Pair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/graph/DetectCycleBfs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/graph/DetectCycleDfs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/graph/DetectCycleDirectedBfs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/graph/DetectCycleDirectedDfs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/graph/Dfs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/graph/DijkstraUsingPQ$Pair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/graph/DijkstraUsingPQ.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/graph/DijkstraUsingSet$Pair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/graph/DijkstraUsingSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/graph/EventualSafeStateBfs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/graph/EventualSafeStatesDfs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/graph/FloodFill.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/graph/KahnAlgoBfs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/graph/META-INF/graph.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/graph/MinMulToReachEnd$Pair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/graph/MinMulToReachEnd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/graph/NoOfDistinctIslands$Pair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/graph/NoOfDistinctIslands.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/graph/NoOfEnclaves$Pair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/graph/NoOfEnclaves.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/graph/NoOfIsland$Pair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/graph/NoOfIsland.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/graph/NoOfProvinces.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/graph/NumWaysToReachDestination$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/graph/NumWaysToReachDestination$Pair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/graph/NumWaysToReachDestination.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/graph/PathMinimumEffort$Pair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/graph/PathMinimumEffort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/graph/PrintShortestPath$Pair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/graph/PrintShortestPath.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/graph/RottenOranges$Pair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/graph/RottenOranges.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/graph/ShortestDistanceBinaryMaze.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/graph/ShortestDistanceUG.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/graph/ShortestPathBinaryMaze$Pair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/graph/ShortestPathBinaryMaze.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/graph/ShortestPathDAG$Pair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/graph/ShortestPathDAG.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/graph/SurroundedRegions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/graph/TopologicalSortDfs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/graph/WordLadder1$Pair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/graph/WordLadder1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/graph/WordLadder2$comp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/graph/WordLadder2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/graph/ZeroOneMatrix$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/graph/ZeroOneMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/linked list/striver/P01_Representation$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/linked list/striver/P01_Representation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/linked list/striver/P02_InsertingAtHead$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/linked list/striver/P02_InsertingAtHead.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pattern/striver/P1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pattern/striver/P10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pattern/striver/P11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pattern/striver/P12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pattern/striver/P13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pattern/striver/P14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pattern/striver/P15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pattern/striver/P16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pattern/striver/P17.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pattern/striver/P18.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pattern/striver/P19.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pattern/striver/P2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pattern/striver/P20.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pattern/striver/P21.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pattern/striver/P22.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pattern/striver/P3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pattern/striver/P4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pattern/striver/P5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pattern/striver/P6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pattern/striver/P7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pattern/striver/P8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pattern/striver/P9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/sliding window/striver/P10_BinarySubArraysWithSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/sliding window/striver/P11_CountNoOfNiceSubArrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/sliding window/striver/P12_SubArrayWithKDiffIntegers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/sliding window/striver/P13_MinimumWindowSubstring.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/sliding window/striver/P1_ConstantWindow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/sliding window/striver/P2_LongSubArraySumLessThanEqualsK.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/sliding window/striver/P3_MaxPointsObtainFromCards.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/sliding window/striver/P4_LongSubstringWithoutRepChar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/sliding window/striver/P5_MaxConsecutiveOnes3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/sliding window/striver/P6_FruitIntoBaskets.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/sliding window/striver/P7_LongSubStringAtMostKDistinctChar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/sliding window/striver/P8_NoOfSubStringContainAll3Char.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/sliding window/striver/P9_LongRepeatCharReplace.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/slidingwindow/LongSubarraySumLessEqualsK.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/slidingwindow/LongSubstringWithoutRepChar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/slidingwindow/MaxConsOnes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stack/striver/P01_ImplementStackUsingArrays$ArrayStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stack/striver/P01_ImplementStackUsingArrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stack/striver/P02_ImplementQueueUsingArrays$ArrayQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stack/striver/P02_ImplementQueueUsingArrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stack/striver/P03_ImplementStackUsingQueue$QueueStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stack/striver/P03_ImplementStackUsingQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stack/striver/P04_ImplementQueueUsingStack$StackQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stack/striver/P04_ImplementQueueUsingStack$StackQueue2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stack/striver/P04_ImplementQueueUsingStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stack/striver/P05_ImplementStackUsingLinkedList$LinkedListStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stack/striver/P05_ImplementStackUsingLinkedList$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stack/striver/P05_ImplementStackUsingLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stack/striver/P06_ImplementQueueUsingLinkedList$LinkedListQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stack/striver/P06_ImplementQueueUsingLinkedList$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stack/striver/P06_ImplementQueueUsingLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stack/striver/P07_CheckBalancedParenthesis.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stack/striver/P08_MinStack$MinStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stack/striver/P08_MinStack$MinStack2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stack/striver/P08_MinStack.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="30VQN5wn7Z5bRZ4qbSFSmIWzztK" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AlienDictionary.executor": "Run",
+    "Application.BellmanFord.executor": "Run",
+    "Application.Bfs.executor": "Run",
+    "Application.BipartiteGraphBfs.executor": "Run",
+    "Application.BipartiteGraphDfs.executor": "Run",
+    "Application.CheapestFlightsWithinKStops.executor": "Run",
+    "Application.CountOccurrencesOfNumber.executor": "Run",
+    "Application.CourseSchedule1.executor": "Run",
+    "Application.DetectCycleBfs.executor": "Run",
+    "Application.DetectCycleDfs.executor": "Run",
+    "Application.DetectCycleDirectedBfs.executor": "Run",
+    "Application.DetectCycleDirectedDfs.executor": "Run",
+    "Application.Dfs.executor": "Run",
+    "Application.DijkstraUsingPQ.executor": "Run",
+    "Application.DijkstraUsingSet.executor": "Run",
+    "Application.EventualSafeStateBfs.executor": "Run",
+    "Application.EventualSafeStatesDfs.executor": "Run",
+    "Application.FloodFill.executor": "Run",
+    "Application.KahnAlgoBfs.executor": "Run",
+    "Application.LongSubarraySumLessEqualsK.executor": "Run",
+    "Application.LongSubstringWithoutRepChar.executor": "Run",
+    "Application.LongSubstringWithoutRepCharBrute.executor": "Run",
+    "Application.MaxConsOnes.executor": "Run",
+    "Application.MaxPointsObtainFromCards.executor": "Run",
+    "Application.MinMulToReachEnd.executor": "Run",
+    "Application.NoOfDistinctIslands.executor": "Run",
+    "Application.NoOfEnclaves.executor": "Run",
+    "Application.NoOfIsland.executor": "Run",
+    "Application.NoOfProvinces.executor": "Run",
+    "Application.P01_BinarySearch.executor": "Run",
+    "Application.P01_ImplementStackUsingArrays.executor": "Run",
+    "Application.P01_LargestElement.executor": "Run",
+    "Application.P01_Representation.executor": "Run",
+    "Application.P01_Search.executor": "Run",
+    "Application.P01_TwoSum.executor": "Run",
+    "Application.P02_FindMinimumInBST.executor": "Run",
+    "Application.P02_ImplementQueueUsingArrays.executor": "Run",
+    "Application.P02_InsertingAtHead.executor": "Run",
+    "Application.P02_InsertionLL.executor": "Run",
+    "Application.P02_LowerBound.executor": "Run",
+    "Application.P02_Preorder.executor": "Run",
+    "Application.P02_SecondLargest.executor": "Run",
+    "Application.P02_SortZeroOneTwo.executor": "Run",
+    "Application.P03_CheckSorted.executor": "Run",
+    "Application.P03_DeletionLL.executor": "Run",
+    "Application.P03_FloorAndCeil.executor": "Run",
+    "Application.P03_ImplementStackUsingQueue.executor": "Run",
+    "Application.P03_Inorder.executor": "Run",
+    "Application.P03_UpperBound.executor": "Run",
+    "Application.P04_FloorCeil.executor": "Run",
+    "Application.P04_ImplementQueueUsingStack.executor": "Run",
+    "Application.P04_InsertANode.executor": "Run",
+    "Application.P04_Length.executor": "Run",
+    "Application.P04_Postorder.executor": "Run",
+    "Application.P05_DeleteANode.executor": "Run",
+    "Application.P05_FirstAndLastOccurrence.executor": "Run",
+    "Application.P05_ImplementStackUsingLinkedList.executor": "Run",
+    "Application.P05_LevelOrder.executor": "Run",
+    "Application.P05_RemoveDupFromSorted.executor": "Run",
+    "Application.P05_Search.executor": "Run",
+    "Application.P06_CountOccurrencesOfNumber.executor": "Run",
+    "Application.P06_DLLRepresentation.executor": "Run",
+    "Application.P06_FindKthSmallestAndSmallest.executor": "Run",
+    "Application.P06_ImplementQueueUsingLinkedList.executor": "Run",
+    "Application.P06_LeftRotateByOne.executor": "Run",
+    "Application.P06_PreInPost.executor": "Run",
+    "Application.P07_CheckBST.executor": "Run",
+    "Application.P07_CheckBalancedParenthesis.executor": "Run",
+    "Application.P07_DeletionDLL.executor": "Run",
+    "Application.P07_LeftRotateByKPlaces.executor": "Run",
+    "Application.P07_MaximumDepth.executor": "Run",
+    "Application.P07_SearchRotatedSortedArray1.executor": "Run",
+    "Application.P08_CheckBTHeightBalancedOrNot$TreeNode.executor": "Run",
+    "Application.P08_InsertionDLL.executor": "Run",
+    "Application.P08_LCA.executor": "Run",
+    "Application.P08_MinStack.executor": "Run",
+    "Application.P08_MoveZerosToEnd.executor": "Run",
+    "Application.P08_SearchRotatedSortedArray2.executor": "Run",
+    "Application.P09_ConstructBSTFromPreorder.executor": "Run",
+    "Application.P09_Diameter.executor": "Run",
+    "Application.P09_MinInSortedArray.executor": "Run",
+    "Application.P09_ReverseDLL.executor": "Run",
+    "Application.P09_Union.executor": "Run",
+    "Application.P09_UnionOfTwoSorted.executor": "Run",
+    "Application.P1.executor": "Run",
+    "Application.P10.executor": "Run",
+    "Application.P10_AddTwoNumberLL.executor": "Run",
+    "Application.P10_BinarySubArraysWithSum.executor": "Run",
+    "Application.P10_HowManyTimesArrayRotated.executor": "Run",
+    "Application.P10_MaxPathSum.executor": "Run",
+    "Application.P10_MinimumPathSum.executor": "Run",
+    "Application.P10_MissingNumber.executor": "Run",
+    "Application.P11.executor": "Run",
+    "Application.P11_IsSameTree.executor": "Run",
+    "Application.P11_MaxConsOnes.executor": "Run",
+    "Application.P11_MinimumPathSumTriangle.executor": "Run",
+    "Application.P11_SegregateOddAndEven.executor": "Run",
+    "Application.P11_SingleElement.executor": "Run",
+    "Application.P12.executor": "Run",
+    "Application.P12_MinimumFallingPathSum.executor": "Run",
+    "Application.P12_PeakElement.executor": "Run",
+    "Application.P12_SingleNumber.executor": "Run",
+    "Application.P12_SortALL012.executor": "Run",
+    "Application.P12_SubArrayWithKDiffIntegers.executor": "Run",
+    "Application.P12_ZigZagOrSpiral.executor": "Run",
+    "Application.P13.executor": "Run",
+    "Application.P13_BoundaryTraversal.executor": "Run",
+    "Application.P13_LongestSubArrayWithSum.executor": "Run",
+    "Application.P13_MinimumWindowSubstring.executor": "Run",
+    "Application.P13_RemoveNthNodeFromBack.executor": "Run",
+    "Application.P14.executor": "Run",
+    "Application.P14_NthRoot.executor": "Run",
+    "Application.P14_ReverseLL.executor": "Run",
+    "Application.P14_SubsetSumEqualsTarget.executor": "Run",
+    "Application.P15.executor": "Run",
+    "Application.P15_CheckLLPalindrome.executor": "Run",
+    "Application.P15_KokoEatingBananas.executor": "Run",
+    "Application.P15_PartitionEqualSubsetSum.executor": "Run",
+    "Application.P15_TopView.executor": "Run",
+    "Application.P16.executor": "Run",
+    "Application.P16_BottomView.executor": "Run",
+    "Application.P16_FindMiddleLL.executor": "Run",
+    "Application.P16_KadaneAlgo.executor": "Run",
+    "Application.P16_MinDaysToMakeMBouquets.executor": "Run",
+    "Application.P16_PartitionEqualSubsetMinAbsDiff.executor": "Run",
+    "Application.P17.executor": "Run",
+    "Application.P17_BestTimeBuyStock.executor": "Run",
+    "Application.P17_CountSubsetsWithSumK.executor": "Run",
+    "Application.P17_DeleteMiddleNodeLL.executor": "Run",
+    "Application.P17_FindSmallestDivisor.executor": "Run",
+    "Application.P17_RightLeftView.executor": "Run",
+    "Application.P18.executor": "Run",
+    "Application.P18_AddOneToLL.executor": "Run",
+    "Application.P18_CapacityToShipPackage.executor": "Run",
+    "Application.P18_CountPartitionsWithGivenDiff.executor": "Run",
+    "Application.P18_IsSymmetric.executor": "Run",
+    "Application.P18_RearrangePosNegAlternate.executor": "Run",
+    "Application.P19.executor": "Run",
+    "Application.P19_01Knapsack.executor": "Run",
+    "Application.P19_IntersectionOfLL.executor": "Run",
+    "Application.P19_KthMissingPositiveNumber.executor": "Run",
+    "Application.P19_RootToNodePath.executor": "Run",
+    "Application.P1_ConstantWindow.executor": "Run",
+    "Application.P1_Fibonacci.executor": "Run",
+    "Application.P2.executor": "Run",
+    "Application.P20.executor": "Run",
+    "Application.P20_AggressiveCows.executor": "Run",
+    "Application.P20_DetectLoopInLL.executor": "Run",
+    "Application.P20_LowestCommonAncestor.executor": "Run",
+    "Application.P20_MinimumCoins.executor": "Run",
+    "Application.P21.executor": "Run",
+    "Application.P21_BookAllocation.executor": "Run",
+    "Application.P21_MaximumWidth.executor": "Run",
+    "Application.P21_TargetSum.executor": "Run",
+    "Application.P22.executor": "Run",
+    "Application.P22_CoinChange2.executor": "Run",
+    "Application.P22_SplitArrayLargestSum.executor": "Run",
+    "Application.P23_MinimizeMaxDisToGasStation.executor": "Run",
+    "Application.P23_UnboundedKnapsack.executor": "Run",
+    "Application.P24_MediumOfTwoSortedArray.executor": "Run",
+    "Application.P24_RodCutting.executor": "Run",
+    "Application.P25_LongestCommonSubsequences.executor": "Run",
+    "Application.P26_PrintLCS.executor": "Run",
+    "Application.P27_LongestCommonSubstring.executor": "Run",
+    "Application.P28_LongestPalindromicSubsequence.executor": "Run",
+    "Application.P29_MinInsertMakeStrPalindrome.executor": "Run",
+    "Application.P2_ClimbingStairs.executor": "Run",
+    "Application.P2_LongSubArraySumLessThanEqualsK.executor": "Run",
+    "Application.P3.executor": "Run",
+    "Application.P30_MinInsertDeleteToConvertStr.executor": "Run",
+    "Application.P31_ShortestCommonSubsequence.executor": "Run",
+    "Application.P32_DistinctSubsequences.executor": "Run",
+    "Application.P33_EditDistance.executor": "Run",
+    "Application.P34_WildcardMatching.executor": "Run",
+    "Application.P35_BuySellStock1.executor": "Run",
+    "Application.P36_BuySellStock2.executor": "Run",
+    "Application.P3_FrogJump.executor": "Run",
+    "Application.P4.executor": "Run",
+    "Application.P41_LongestIncreasingSubsequence.executor": "Run",
+    "Application.P4_FrogJumpKSteps.executor": "Run",
+    "Application.P4_LongSubstringWithoutRepChar.executor": "Run",
+    "Application.P5.executor": "Run",
+    "Application.P5_HouseRobber1.executor": "Run",
+    "Application.P5_MaxConsecutiveOnes3.executor": "Run",
+    "Application.P6.executor": "Run",
+    "Application.P6_FruitIntoBaskets.executor": "Run",
+    "Application.P6_HouseRobber2.executor": "Run",
+    "Application.P7.executor": "Run",
+    "Application.P7_LongSubStringAtMostKDistinctChar.executor": "Run",
+    "Application.P7_NinjaTraining.executor": "Run",
+    "Application.P8.executor": "Run",
+    "Application.P8_NoOfSubStringContainAll3Char.executor": "Run",
+    "Application.P8_UniquePath1.executor": "Run",
+    "Application.P9.executor": "Run",
+    "Application.P9_LongRepeatCharReplace.executor": "Run",
+    "Application.P9_UniquePath2.executor": "Run",
+    "Application.PO1_LargestElement.executor": "Run",
+    "Application.PO2_SecondLargest.executor": "Run",
+    "Application.PO3_MajorityElement1.executor": "Run",
+    "Application.PO4_CheckSorted.executor": "Run",
+    "Application.PO5_RemoveDupFromSorted.executor": "Run",
+    "Application.PathMinimumEffort.executor": "Run",
+    "Application.PrintShortestPath.executor": "Run",
+    "Application.RottenOranges.executor": "Run",
+    "Application.ShortestDistanceUG.executor": "Run",
+    "Application.ShortestPathBinaryMaze.executor": "Run",
+    "Application.ShortestPathDAG.executor": "Run",
+    "Application.SurroundedRegions.executor": "Run",
+    "Application.TopologicalSortDfs.executor": "Run",
+    "Application.TwoSum.executor": "Run",
+    "Application.WordLadder1.executor": "Run",
+    "Application.WordLadder2.executor": "Run",
+    "Application.ZeroOneMatrix.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/InterviewPrep",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\DSA\stack\src\striver" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.P09_ConstructBSTFromPreorder">
+    <configuration name="P05_DeleteANode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="striver.P05_DeleteANode" />
+      <module name="bst" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="striver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P06_FindKthSmallestAndSmallest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="striver.P06_FindKthSmallestAndSmallest" />
+      <module name="bst" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="striver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P07_CheckBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="striver.P07_CheckBST" />
+      <module name="bst" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="striver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P08_LCA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="striver.P08_LCA" />
+      <module name="bst" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="striver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P09_ConstructBSTFromPreorder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="striver.P09_ConstructBSTFromPreorder" />
+      <module name="bst" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="striver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.P09_ConstructBSTFromPreorder" />
+        <item itemvalue="Application.P08_LCA" />
+        <item itemvalue="Application.P07_CheckBST" />
+        <item itemvalue="Application.P06_FindKthSmallestAndSmallest" />
+        <item itemvalue="Application.P05_DeleteANode" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a904484c-0b74-4061-9e43-69b5062128b2" name="Changes" comment="" />
+      <created>1753710216937</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1753710216937</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/sliding window/src/LongSubstringWithoutRepChar.java</url>
+          <line>5</line>
+          <properties class="LongSubstringWithoutRepChar">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/sliding window/src/MaxConsOnes.java</url>
+          <line>2</line>
+          <properties class="MaxConsOnes">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/graph/src/BipartiteGraphDfs.java</url>
+          <line>30</line>
+          <properties class="BipartiteGraphDfs" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/arrays/src/striver/P14_SortZeroOneTwo.java</url>
+          <line>52</line>
+          <properties class="striver.P14_SortZeroOneTwo" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/arrays/src/striver/P02_SecondLargest.java</url>
+          <line>61</line>
+          <properties class="striver.P02_SecondLargest" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/arrays/src/striver/P16_KadaneAlgo.java</url>
+          <line>84</line>
+          <properties class="striver.P16_KadaneAlgo" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/arrays/src/striver/P18_RearrangePosNegAlternate.java</url>
+          <line>48</line>
+          <properties class="striver.P18_RearrangePosNegAlternate" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/pattern/src/striver/P2.java</url>
+          <line>11</line>
+          <properties class="striver.P2">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/pattern/src/striver/P3.java</url>
+          <line>11</line>
+          <properties class="striver.P3">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/pattern/src/striver/P5.java</url>
+          <line>11</line>
+          <properties class="striver.P5">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/dynamic programming/src/striver/P4_FrogJumpKSteps.java</url>
+          <line>100</line>
+          <properties class="striver.P4_FrogJumpKSteps" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/linked list/src/striver/P11_SegregateOddAndEven.java</url>
+          <line>83</line>
+          <properties class="striver.P11_SegregateOddAndEven" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/dynamic programming/src/striver/P14_SubsetSumEqualsTarget.java</url>
+          <line>99</line>
+          <properties class="striver.P14_SubsetSumEqualsTarget" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/dynamic programming/src/striver/P18_CountPartitionsWithGivenDiff.java</url>
+          <line>128</line>
+          <properties class="striver.P18_CountPartitionsWithGivenDiff" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/dynamic programming/src/striver/P19_01Knapsack.java</url>
+          <line>97</line>
+          <properties class="striver.P19_01Knapsack" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/dynamic programming/src/striver/P31_ShortestCommonSubsequence.java</url>
+          <line>54</line>
+          <properties class="striver.P31_ShortestCommonSubsequence" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/trees/src/striver/P06_PreInPost.java</url>
+          <line>62</line>
+          <properties class="striver.P06_PreInPost" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/graph/src/WordLadder2.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/graph/src/PrintShortestPath.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/graph/src/BellmanFord.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/arrays/src/striver/P02_SecondLargest.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/arrays/src/striver/P02_SecondLargest.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/arrays/src/striver/P09_MissingNumber.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/arrays/src/striver/P12_LongestSubArrayWithSum.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/linked list/src/striver/P02_InsertionLL.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/arrays/src/striver/P01_LargestElement.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/linked list/src/striver/P02_InsertionLL.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/linked list/src/striver/P08_InsertionDLL.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/linked list/src/striver/P11_SegregateOddAndEven.java</url>
+          <line>84</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/dynamic programming/src/striver/P6_HouseRobber2.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/dynamic programming/src/striver/P7_NinjaTraining.java</url>
+          <line>121</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/dynamic programming/src/striver/P8_UniquePath1.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/dynamic programming/src/striver/P34_WildcardMatching.java</url>
+          <line>136</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/dynamic programming/src/striver/P35_BuySellStock1.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/trees/src/striver/P04_Postorder.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -36,6 +36,7 @@ public class P3_FrogJump {
                 twoJump=dp[i-2]+Math.abs(heights[i]-heights[i-2]);
             dp[i]=Math.min(oneJump,twoJump);
         }
+        //dp[i] represents the minimum energy required to reach index i from the starting index 0.
         return dp[ind];
     }
     public static int memoizationRecur(int[] heights,int ind,int[] dp)
